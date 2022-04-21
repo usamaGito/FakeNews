@@ -1,7 +1,0 @@
-print('I am Hungry')
-print('I am Hungry 2')
-Print('I am hungry')
-print('this is mina')
-print('gurmeet')
-print('Hello from Mina')
-Print('Hello two')
